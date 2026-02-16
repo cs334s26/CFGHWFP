@@ -1,6 +1,3 @@
 # CFGHWFP
 
-## Authors
-
-- Cole Aydelotte
-- Francisco Figueroa
+- skibidi
