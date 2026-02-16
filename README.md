@@ -1,3 +1,6 @@
 # CFGHWFP
 
 AUTHORS?????
+
+- Francisco
+- Cole
