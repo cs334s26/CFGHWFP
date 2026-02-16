@@ -1,6 +1,6 @@
 # CFGHWFP
 
-AUTHORS?????
+## Authors
 
+- Cole Aydelotte
 - Francisco
-- Cole
